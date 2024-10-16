@@ -1,0 +1,7 @@
+audio/*
+.venv
+.idea
+ML4T
+backup_audio
+__pycache__
+.DS_Store

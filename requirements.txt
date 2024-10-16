@@ -1,0 +1,5 @@
+openai==1.51.2
+pydub
+youtube-transcript-api==0.6.2
+requests
+numpy
